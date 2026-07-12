@@ -1,1 +1,2 @@
+# Project_1_TDI-Complaint-Index-Analysis
 This project analyzes Blue Cross Blue Shield’s (BCBS) complaint and policy trends from 2019–2023 using structured regulatory data from the Texas Department of Insurance (TDI). The goal is to understand how complaint patterns relate to business growth, customer retention, and regulatory compliance.
